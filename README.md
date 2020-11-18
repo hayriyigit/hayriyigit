@@ -1,18 +1,14 @@
-### Hi there 👋
 
-<!--
-**hayriyigit/hayriyigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Hayri's github stats](https://github-readme-stats-omega-blue.vercel.app/api?username=hayriyigit)](https://github.com/hayriyigit/github-readme-stats)
-[![Top Langs](https://github-readme-stats-omega-blue.vercel.app/api/top-langs?username=hayriyigit)](https://github.com/hayriyigit/github-readme-stats)
+<summary></summary>
+    <p align="center">
+    <a href="#hayriyigit" target="_blank">
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayriyigit&hide=html,&hide_border=true&title_color=4c566a&text_color=3b4252"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hayriyigit&show_icons=true&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
+    </a>
+    </p>
+    <summary></summary>
+    <p align="center">
+    <a href="#hayriyigit" target="_blank">
+        <img src="https://profile-counter.glitch.me/hayriyigit/count.svg" />
+    </a>
+    </p>
