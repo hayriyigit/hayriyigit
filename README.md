@@ -1,7 +1,3 @@
 
-    <p align="center">
-    <a href="#hayriyigit" target="_blank">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hayriyigit&show_icons=true&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayriyigit&hide=html,&hide_border=true&title_color=4c566a&text_color=3b4252"/>
-    </a>
-    </p>
+[![Hayri's github stats](https://github-readme-stats.vercel.app/api?username=hayriyigit&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayriyigit&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
