@@ -4,7 +4,7 @@
 #hayriyigit {
   company: Ordulu Technology;
   position: Software Developer; 
-  working_on: Developing AI solutions
+  working_on: Developing AI solutions;
   focusing_on: LLM
 }
 ```
